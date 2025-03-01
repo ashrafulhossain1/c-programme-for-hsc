@@ -3,7 +3,8 @@
 
 int main()
 {
-printf("My Dream is one day a girl love me \n");
-printf("that Day I will love another girl");
+    // this is comment in c
+
+printf("My Dream is! \n one  day a girl love me!");
 return 0;
 }
